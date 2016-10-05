@@ -3,7 +3,7 @@ var bodyParser=require("body-parser");
 var routes =require('./routes');
 
 var app= express();
-app.listen(4244,function(){
+app.listen(4242,function(){
 	console.log("Puerto 4242 escuchando");
 });
 
