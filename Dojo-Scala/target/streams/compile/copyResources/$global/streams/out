@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/estudiantelis/Empresariales/Dojo-Scala/scala/conf/application.conf,/home/estudiantelis/Empresariales/Dojo-Scala/scala/target/scala-2.11/classes/application.conf)[0m
+[0m[[0mdebug[0m] [0m	(/home/estudiantelis/Empresariales/Dojo-Scala/scala/conf/logback.xml,/home/estudiantelis/Empresariales/Dojo-Scala/scala/target/scala-2.11/classes/logback.xml)[0m
+[0m[[0mdebug[0m] [0m	(/home/estudiantelis/Empresariales/Dojo-Scala/scala/conf/routes,/home/estudiantelis/Empresariales/Dojo-Scala/scala/target/scala-2.11/classes/routes)[0m
